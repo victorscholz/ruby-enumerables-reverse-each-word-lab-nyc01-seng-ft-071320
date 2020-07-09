@@ -15,3 +15,4 @@ def reverse_each_word_with_collect(str)
   end
   arr2.join(" ")
 end
+reverse_each_word_with_collect(str)
