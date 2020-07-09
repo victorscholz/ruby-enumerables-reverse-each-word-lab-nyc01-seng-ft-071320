@@ -9,5 +9,6 @@ end
 
 def reverse_each_word_with_collect(str)
   arr1 = str.split(" ")
+  arr2 = []
   
 end
